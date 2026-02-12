@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+theme: jekyll-theme-dinky
 
 # Dylan Mahon
 
