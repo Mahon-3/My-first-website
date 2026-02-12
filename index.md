@@ -1,8 +1,7 @@
 ---
 layout: default
----
 theme: jekyll-theme-dinky
-
+---
 # Dylan Mahon
 
 Welcome to my website — built from scratch during **National Apprenticeship Week 2026**.
